@@ -14,3 +14,4 @@ The objective of this project was to **identify patients with a higher risk of p
 * Support decision-making by suggesting targeted interventions.
 
 This dashboard serves as a tool to **improve resource allocation**, **enhance patient care pathways**, and ultimately **reduce unnecessary hospital costs**, aligning clinical outcomes with **financial sustainability**.
+<img width="1024" height="1536" alt="Fluxograma de Custos e Tempo de Internação" src="https://github.com/user-attachments/assets/1f3edd90-7be7-482a-9ca5-dcb2d0daaaeb" />
