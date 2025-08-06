@@ -7,7 +7,9 @@ To control expenses, insurance companies may **deny coverage for specific drugs 
 
 Clinical literature highlights that certain patient profiles are more likely to experience longer hospital stays, including elderly individuals and those with multiple comorbidities (three or more). **These high-risk groups require closer attention and proactive care planning.**
 
-The objective of this project was to **identify patients with a higher risk of prolonged hospital stay**s, using historical data to detect trends and risk factors. A descriptive dashboard was developed to:
+The objective of this project was **to decrease costs in a healthcare insurance company**, **by identify patients with a higher risk of prolonged hospital stays**, and **flag these patients** using historical data to detect trends and risk factors. 
+
+A descriptive dashboard was also developed to:
 
 * Monitor hospital LOS patterns,
 * Alert stakeholders to emerging issues,
